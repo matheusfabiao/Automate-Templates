@@ -100,5 +100,3 @@ Sinta-se à vontade para abrir issues ou enviar pull requests. Todas as contribu
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-
-Com isso, o projeto estará bem documentado e preparado para ser compartilhado no GitHub. Se precisar de ajustes ou mais detalhes, é só avisar!
